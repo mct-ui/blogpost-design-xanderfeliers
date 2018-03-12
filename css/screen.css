@@ -107,7 +107,8 @@ h1, h2, h3 {
     margin: 0 0 24px;
     font-family: "Playfair Display", serif;
   }
-  h2 {
+  *+h2 {
+    margin-top: 48px;
     font-size: 23px;
     line-height: 32px;
     margin: 0 0 24px;
